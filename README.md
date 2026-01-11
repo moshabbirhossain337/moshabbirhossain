@@ -37,7 +37,7 @@ I enjoy solving real-world problems with technology, collaborating with teams, a
 
 🔗 &nbsp;**Connect with me**  
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moshabbirhossain337f)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moshabbirhossain337)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moshabbirhossain337/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/moshabbirhossain337/)
 
@@ -92,7 +92,7 @@ I enjoy solving real-world problems with technology, collaborating with teams, a
 
 
 ### 📈 GitHub Stats  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moshabbirhossain337)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moshabbirhossain337)](https://github.com/moshabbirhossain337)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=moshabbirhossain337&show_icons=true&count_private=true)  
 
