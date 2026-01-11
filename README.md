@@ -92,9 +92,9 @@ I enjoy solving real-world problems with technology, collaborating with teams, a
 
 
 ### 📈 GitHub Stats  
-[![Top Langs](https://github-readme-stats-git-master-moshabbir-hossains-projects.vercel.app/api/top-langs/?username=moshabbirhossain337&layout=compact&langs_count=6)](https://github.com/moshabbirhossain337)
+[![Top Langs](https://github-readme-stats-one-theta-71.vercel.app/api/top-langs/?username=moshabbirhossain337&layout=compact&langs_count=8)](https://github.com/moshabbirhossain337)
 
-![GitHub stats](https://github-readme-stats-git-master-moshabbir-hossains-projects.vercel.app/api?username=moshabbirhossain337&show_icons=true&count_private=true) 
+![GitHub stats](https://github-readme-stats-one-theta-71.vercel.app/api?username=moshabbirhossain337&show_icons=true&count_private=true)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=moshabbirhossain337)
 
