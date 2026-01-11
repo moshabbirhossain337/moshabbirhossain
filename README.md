@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Moshabbir Hossain  
 #### Front End Developer | MERN Stack Developer
-![MERN Stack Developer Banner]([https://i.ibb.co/v6tyv1Y6/Blue-and-White-Simple-Web-Designer-General-Linked-In-Banner.png](https://ibb.co.com/GKzfspS))
+![MERN Stack Developer Banner](https://i.postimg.cc/RCcVwmDK/frontend-banner.png))
 
 
 
