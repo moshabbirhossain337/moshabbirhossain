@@ -120,8 +120,8 @@ This project helped reinforce:
 Example:
 
 ```
-/assets/home.png
-/assets/book-details.png
+/final.png
+/final.png
 ```
 
 > 📌 **Tip:** Screenshots increase recruiter attention by ~40%.
