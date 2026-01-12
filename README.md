@@ -2,7 +2,7 @@
 
 A **frontend React application** that allows users to browse books, read reviews, and explore ratings through a clean and responsive user interface.
 
-🔗 **Live Demo:** [https://books-review-soft.netlify.app/](https://books-review-soft.netlify.app/)
+🔗 **Live Demo:** [https://books-review-soft.netlify.app/](https://books-review-soft.netlify.app/)  
 📦 **Repository:** [https://github.com/moshabbirhossain337/books-review-app](https://github.com/moshabbirhossain337/books-review-app)
 
 ---
@@ -115,13 +115,9 @@ This project helped reinforce:
 
 ## 📸 Screenshots
 
-*(Add real screenshots later for maximum impact)*
 
-Example:
-
-
-![final](./final.png)
-![final2](./final.png)
+![final](ss/ss.png)
+![final2](.ss/ss.png)
 
 
 > 📌 **Tip:** Screenshots increase recruiter attention by ~40%.
