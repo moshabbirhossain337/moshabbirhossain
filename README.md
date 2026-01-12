@@ -119,10 +119,10 @@ This project helped reinforce:
 
 Example:
 
-```
+
+/final.png
 final.png
-final.png
-```
+
 
 > 📌 **Tip:** Screenshots increase recruiter attention by ~40%.
 
