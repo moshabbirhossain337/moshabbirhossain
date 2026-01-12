@@ -1,10 +1,3 @@
-Good catch — and this matters a lot professionally.
-Presenting a frontend-only project as full-stack **hurts credibility**, so you were right to correct it. I’ll fix it properly and give you a **frontend-accurate, recruiter-safe README** aligned with what your project actually demonstrates.
-
-Below is a **clean, modern, frontend-focused README** using your **real live link**.
-
----
-
 # 📚 Books Review App
 
 A **frontend React application** that allows users to browse books, read reviews, and explore ratings through a clean and responsive user interface.
