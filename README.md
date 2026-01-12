@@ -120,8 +120,8 @@ This project helped reinforce:
 Example:
 
 
-/final.png
-final.png
+![final](./final.png)
+![final2](./final.png)
 
 
 > 📌 **Tip:** Screenshots increase recruiter attention by ~40%.
