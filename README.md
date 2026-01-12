@@ -26,8 +26,8 @@ I enjoy solving real-world problems with technology, collaborating with teams, a
 ---
 
 ### 🌱 Currently Learning  
-- Advanced **Node.js & Express.js** patterns  <!--
-- **PostgreSQL** for relational database design and **Prisma** for modern ORM and database management  -->
+- Advanced **Node.js & Express.js** patterns  
+<!-- - **PostgreSQL** for relational database design and **Prisma** for modern ORM and database management  -->
 - **Backend architecture** for scalability, performance optimization, and clean code practices  
  
 
