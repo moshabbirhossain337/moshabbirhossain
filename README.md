@@ -13,8 +13,8 @@ I enjoy solving real-world problems with technology, collaborating with teams, a
 
 ### 🛠 Skills  
 **Frontend:** HTML, CSS, Tailwind CSS, JavaScript,<!-- TypeScript,--> React, Redux Toolkit,<!-- RTK Query,--> Next.js  
-**Backend & Database:** Node.js, Express.js, MongoDB, Mongoose,<!-- PostgreSQL, Prisma-->  
-**Tools & Platforms:** Git, GitHub, Firebase, Vercel, Netlify,<!-- Cloudinary, Redis--> 
+**Backend & Database:** Node.js, Express.js, MongoDB, Mongoose<!--, PostgreSQL, Prisma-->  
+**Tools & Platforms:** Git, GitHub, Firebase, Vercel, Netlify<!--, Cloudinary, Redis--> 
 **Soft Skills:** Problem-Solving, Teamwork, Communication, Time Management  
 
 ---
