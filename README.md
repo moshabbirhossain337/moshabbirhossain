@@ -116,8 +116,8 @@ This project helped reinforce:
 ## 📸 Screenshots
 
 
-![final](ss/ss.png)
-![final2](.ss/ss.png)
+![final](ss/sss.png)
+![final2](ss/ss.png)
 
 
 > 📌 **Tip:** Screenshots increase recruiter attention by ~40%.
